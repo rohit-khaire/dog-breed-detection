@@ -1,0 +1,962 @@
+{
+  "Otterhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Cocker Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Brittany Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Afghan Hound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Maltese Dog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Schipperke": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Irish Setter": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Pekinese": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Golden Retriever": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Vizsla": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Welsh Springer Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Staffordshire Bullterrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Border Collie": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Irish Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Eskimo Dog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Pug": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Kelpie": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Yorkshire Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Tibetan Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Walker Hound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Affenpinscher": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Cardigan": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "English Springer": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "English Foxhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "West Highland White Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Lakeland Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Rhodesian Ridgeback": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Gordon Setter": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Lhasa": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Curly": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Beagle": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Tibetan Mastiff": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Sussex Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Saint Bernard": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Toy Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Standard Poodle": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bernese Mountain Dog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Pomeranian": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Ibizan Hound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Redbone": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Toy Poodle": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Basset": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Scottish Deerhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Miniature Pinscher": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Basenji": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Border Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bedlington Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Kerry Blue Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Weimaraner": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "English Setter": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bluetick": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Boston Bull": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Italian Greyhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Dandie Dinmont": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Airedale": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Irish Water Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Norfolk Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Wire": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "French Bulldog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Soft": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Komondor": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "African Hunting Dog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Siberian Husky": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Newfoundland": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bouvier Des Flandres": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Saluki": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Shetland Sheepdog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Collie": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Rottweiler": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Silky Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Norwegian Elkhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Chihuahua": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Leonberg": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Norwich Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Cairn": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Boxer": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Borzoi": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Dhole": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Samoyed": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "German Shepherd": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Labrador Retriever": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Blenheim Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Groenendael": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Doberman": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Great Dane": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Flat": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Appenzeller": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Shih": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Japanese Spaniel": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Greater Swiss Mountain Dog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Black": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Dingo": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Great Pyrenees": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Whippet": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Keeshond": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Malinois": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "American Staffordshire Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Mexican Hairless": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Giant Schnauzer": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Brabancon Griffon": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Kuvasz": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Miniature Poodle": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Irish Wolfhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Briard": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Clumber": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Standard Schnauzer": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bull Mastiff": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Malamute": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Sealyham Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Entlebucher": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Chow": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Papillon": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Pembroke": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "German Short": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Old English Sheepdog": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Chesapeake Bay Retriever": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Scotch Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Australian Terrier": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Miniature Schnauzer": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  },
+  "Bloodhound": {
+    "origin": "Unknown",
+    "life_expectancy": "Unknown",
+    "weight": "Unknown",
+    "height": "Unknown",
+    "temperament": "Unknown",
+    "bite_force": "Unknown"
+  }
+}
