@@ -1,87 +1,44 @@
-import requests
+import json
 
-breed_cache = {}
-
-# 🔥 Fix incorrect labels from model
-BREED_FIX = {
-    "German Short": "German Shorthaired Pointer",
-    "Shih": "Shih Tzu",
-    "Flat": "Flat-Coated Retriever",
-    "Wire": "Wire Fox Terrier",
-    "Soft": "Soft-Coated Wheaten Terrier",
-    "Black": "Black Labrador Retriever"
-}
+# Load once
+with open("breeds_info.json", "r") as f:
+    BREEDS = json.load(f)
 
 
 def normalize_name(name):
-    return BREED_FIX.get(name, name)
-
-
-def safe_get(value, suffix=""):
-    if value is None or value == "":
-        return "Unknown"
-    return str(value) + suffix
+    return name.strip().lower()
 
 
 def get_breed_info(breed_name):
-    # Normalize name
-    breed_name = normalize_name(breed_name)
-
-    # Cache check
-    if breed_name in breed_cache:
-        return breed_cache[breed_name]
-
+    LABEL_MAP = {
+    "Pekinese": "Pekinese",  # if you keep same
+    "Wire": "Wire",
+    "Soft": "Soft",
+    "Black": "Black",
+    "Shih": "Shih",
+    "German Short": "German Short",
+    }
+    breed_name = LABEL_MAP.get(breed_name, breed_name)
     try:
-        url = "https://api.thedogapi.com/v1/breeds/search"
+        # Normalize input
+        input_name = normalize_name(breed_name)
 
-        # 🔥 Try full name first
-        response = requests.get(url, params={"q": breed_name})
-        data = response.json()
+        # Search in JSON (case-insensitive)
+        for key in BREEDS:
+            if normalize_name(key) == input_name:
+                data = BREEDS[key]
 
-        # 🔥 If not found → try first word
-        if len(data) == 0:
-            first_word = breed_name.split(" ")[0]
-            response = requests.get(url, params={"q": first_word})
-            data = response.json()
+                return {
+                    "name": key,
+                    "origin": data.get("origin", "N/A"),
+                    "life_span": data.get("life_expectancy", "N/A"),
+                    "weight": data.get("weight", "N/A"),
+                    "height": data.get("height", "N/A"),
+                    "temperament": data.get("temperament", "N/A"),
+                    "bred_for": data.get("bite_force", "N/A")
+                }
 
-        # 🔥 STILL NOT FOUND → return fallback (IMPORTANT FIX)
-        if len(data) == 0:
-            result = {
-                "name": breed_name,
-                "origin": "Unknown",
-                "life_span": "Unknown",
-                "weight": "Unknown",
-                "height": "Unknown",
-                "temperament": "Unknown",
-                "bred_for": "Unknown"
-            }
-
-            breed_cache[breed_name] = result
-            return result
-
-        breed = data[0]
-
-        result = {
-            "name": safe_get(breed.get("name")),
-            "origin": safe_get(breed.get("origin")),
-            "life_span": safe_get(breed.get("life_span")),
-            "temperament": safe_get(breed.get("temperament")),
-            "weight": safe_get(breed.get("weight", {}).get("metric"), " kg"),
-            "height": safe_get(breed.get("height", {}).get("metric"), " cm"),
-            "bred_for": safe_get(breed.get("bred_for"))
-        }
-
-        breed_cache[breed_name] = result
-        return result
+        return {"error": "Breed not found"}
 
     except Exception as e:
-        # 🔥 NEVER FAIL UI
-        return {
-            "name": breed_name,
-            "origin": "Unknown",
-            "life_span": "Unknown",
-            "weight": "Unknown",
-            "height": "Unknown",
-            "temperament": "Unknown",
-            "bred_for": "Unknown"
-        }
+        return {"error": str(e)}

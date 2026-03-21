@@ -1,962 +1,962 @@
 {
   "Otterhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom",
+    "life_expectancy": "10-13 years",
+    "weight": "30-55 kg",
+    "height": "61-69 cm",
+    "temperament": "Amiable, Boisterous, Even Tempered, Exuberant, Friendly",
+    "bite_force": "200 PSI"
   },
   "Cocker Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom",
+    "life_expectancy": "12-15 years",
+    "weight": "7-14 kg",
+    "height": "36-43 cm",
+    "temperament": "Affectionate, Cheerful, Faithful, Gentle, Playful, Quiet, Trainable, Trusting",
+    "bite_force": "135 PSI"
   },
   "Brittany Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France",
+    "life_expectancy": "12-14 years",
+    "weight": "14-20 kg",
+    "height": "43-52 cm",
+    "temperament": "Adaptable, Agile, Alert, Attentive, Energetic, Intelligent, Loyal, Vigorous",
+    "bite_force": "150 PSI"
   },
   "Afghan Hound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Afghanistan",
+    "life_expectancy": "12-14 years",
+    "weight": "20-27 kg",
+    "height": "63-74 cm",
+    "temperament": "Aloof, Clownish, Dignified, Happy, Independent",
+    "bite_force": "175 PSI"
   },
   "Maltese Dog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Malta",
+    "life_expectancy": "12-15 years",
+    "weight": "2-4 kg",
+    "height": "20-25 cm",
+    "temperament": "Affectionate, Docile, Fearless, Gentle, Intelligent, Lively, Playful, Responsive, Sweet-Tempered",
+    "bite_force": "100 PSI"
   },
   "Schipperke": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium",
+    "life_expectancy": "13-15 years",
+    "weight": "3-9 kg",
+    "height": "25-33 cm",
+    "temperament": "Agile, Curious, Energetic, Faithful, Fearless, Independent, Intelligent",
+    "bite_force": "120 PSI"
   },
   "Irish Setter": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "12-15 years",
+    "weight": "25-32 kg",
+    "height": "58-67 cm",
+    "temperament": "Affectionate, Energetic, Lively, Playful, Trainable",
+    "bite_force": "150 PSI"
   },
   "Pekinese": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "China",
+    "life_expectancy": "12-15 years",
+    "weight": "3-6 kg",
+    "height": "15-25 cm",
+    "temperament": "Affectionate, Aggressive, Intelligent, Narcissistic, Opinionated",
+    "bite_force": "100 PSI"
   },
   "Golden Retriever": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (Scotland)",
+    "life_expectancy": "10-12 years",
+    "weight": "25-34 kg",
+    "height": "51-61 cm",
+    "temperament": "Friendly, Intelligent, Kind, Reliable, Trustworthy",
+    "bite_force": "190 PSI"
   },
   "Vizsla": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Hungary",
+    "life_expectancy": "12-15 years",
+    "weight": "18-27 kg",
+    "height": "53-64 cm",
+    "temperament": "Affectionate, Energetic, Gentle, Intelligent, Loyal, Quiet",
+    "bite_force": "135 PSI"
   },
   "Welsh Springer Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Wales, United Kingdom",
+    "life_expectancy": "12-15 years",
+    "weight": "16-20 kg",
+    "height": "43-48 cm",
+    "temperament": "Active, Friendly, Loyal, Playful, Stubborn",
+    "bite_force": "140 PSI"
   },
   "Staffordshire Bullterrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-14 years",
+    "weight": "11-17 kg",
+    "height": "33-41 cm",
+    "temperament": "Affectionate, Bold, Courageous, Fearless, Intelligent, Loyal, Reliable",
+    "bite_force": "328 PSI"
   },
   "Border Collie": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (Anglo-Scottish border)",
+    "life_expectancy": "12-15 years",
+    "weight": "12-20 kg",
+    "height": "46-56 cm",
+    "temperament": "Alert, Energetic, Intelligent, Loyal, Responsive, Tenacious",
+    "bite_force": "150 PSI"
   },
   "Irish Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "13-15 years",
+    "weight": "11-12 kg",
+    "height": "45-48 cm",
+    "temperament": "Bold, Courageous, Energetic, Lively, Loyal, Protective",
+    "bite_force": "150 PSI"
   },
   "Eskimo Dog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Canada / Greenland",
+    "life_expectancy": "12-15 years",
+    "weight": "18-40 kg",
+    "height": "51-69 cm",
+    "temperament": "Alert, Brave, Energetic, Gentle, Loyal",
+    "bite_force": "235 PSI"
   },
   "Pug": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "China",
+    "life_expectancy": "12-15 years",
+    "weight": "6-8 kg",
+    "height": "25-36 cm",
+    "temperament": "Charming, Clever, Docile, Loving, Mischievous, Obstinate, Playful, Quiet, Sociable",
+    "bite_force": "100 PSI"
   },
   "Kelpie": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Australia",
+    "life_expectancy": "10-14 years",
+    "weight": "11-20 kg",
+    "height": "43-51 cm",
+    "temperament": "Alert, Eager, Energetic, Friendly, Intelligent, Loyal",
+    "bite_force": "145 PSI"
   },
   "Yorkshire Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "13-16 years",
+    "weight": "2-3 kg",
+    "height": "17-23 cm",
+    "temperament": "Bold, Confident, Courageous, Independent, Intelligent",
+    "bite_force": "100 PSI"
   },
   "Tibetan Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Tibet, China",
+    "life_expectancy": "12-15 years",
+    "weight": "8-14 kg",
+    "height": "35-41 cm",
+    "temperament": "Affectionate, Amiable, Energetic, Gentle, Loyal, Sensitive",
+    "bite_force": "120 PSI"
   },
   "Walker Hound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "12-13 years",
+    "weight": "20-30 kg",
+    "height": "51-69 cm",
+    "temperament": "Active, Confident, Friendly, Gentle, Intelligent",
+    "bite_force": "175 PSI"
   },
   "Affenpinscher": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "12-14 years",
+    "weight": "3-6 kg",
+    "height": "23-30 cm",
+    "temperament": "Active, Adventurous, Curious, Fun-Loving, Playful, Stubborn",
+    "bite_force": "100 PSI"
   },
   "Cardigan": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Wales, United Kingdom",
+    "life_expectancy": "12-15 years",
+    "weight": "11-17 kg",
+    "height": "25-33 cm",
+    "temperament": "Affectionate, Alert, Devoted, Faithful, Intelligent, Trainable",
+    "bite_force": "130 PSI"
   },
   "English Springer": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-14 years",
+    "weight": "18-25 kg",
+    "height": "46-56 cm",
+    "temperament": "Active, Alert, Cheerful, Friendly, Intelligent, Playful",
+    "bite_force": "155 PSI"
   },
   "English Foxhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-13 years",
+    "weight": "25-34 kg",
+    "height": "58-64 cm",
+    "temperament": "Active, Affectionate, Friendly, Gentle, Sociable",
+    "bite_force": "185 PSI"
   },
   "West Highland White Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom",
+    "life_expectancy": "12-16 years",
+    "weight": "6-10 kg",
+    "height": "25-28 cm",
+    "temperament": "Alert, Courageous, Energetic, Friendly, Hardy, Independent",
+    "bite_force": "125 PSI"
   },
   "Lakeland Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "7-8 kg",
+    "height": "33-38 cm",
+    "temperament": "Bold, Confident, Energetic, Friendly, Intelligent",
+    "bite_force": "120 PSI"
   },
   "Rhodesian Ridgeback": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Zimbabwe (Rhodesia)",
+    "life_expectancy": "10-12 years",
+    "weight": "29-41 kg",
+    "height": "61-69 cm",
+    "temperament": "Dignified, Even Tempered, Faithful, Intelligent, Loyal, Mischievous, Sensitive, Strong-Willed",
+    "bite_force": "224 PSI"
   },
   "Gordon Setter": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom",
+    "life_expectancy": "10-12 years",
+    "weight": "20-36 kg",
+    "height": "58-69 cm",
+    "temperament": "Alert, Confident, Fearless, Intelligent, Loyal",
+    "bite_force": "150 PSI"
   },
   "Lhasa": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Tibet, China",
+    "life_expectancy": "12-15 years",
+    "weight": "5-8 kg",
+    "height": "25-28 cm",
+    "temperament": "Assertive, Devoted, Fearless, Friendly, Lively, Obedient, Playful, Steady",
+    "bite_force": "120 PSI"
   },
   "Curly": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "9-14 years",
+    "weight": "23-37 kg",
+    "height": "58-69 cm",
+    "temperament": "Alert, Confident, Intelligent, Lively, Loyal, Trainable",
+    "bite_force": "155 PSI"
   },
   "Beagle": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "8-14 kg",
+    "height": "33-41 cm",
+    "temperament": "Amiable, Determined, Energetic, Even Tempered, Excitable, Gentle, Intelligent",
+    "bite_force": "235 PSI"
   },
   "Tibetan Mastiff": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Tibet, China",
+    "life_expectancy": "10-14 years",
+    "weight": "48-82 kg",
+    "height": "61-76 cm",
+    "temperament": "Aloof, Independent, Intelligent, Protective, Strong-Willed, Tenacious",
+    "bite_force": "550 PSI"
   },
   "Sussex Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "11-13 years",
+    "weight": "16-20 kg",
+    "height": "33-38 cm",
+    "temperament": "Adaptable, Affectionate, Even Tempered, Friendly, Loyal, Sociable",
+    "bite_force": "140 PSI"
   },
   "Saint Bernard": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Switzerland / Italy",
+    "life_expectancy": "8-10 years",
+    "weight": "64-120 kg",
+    "height": "65-90 cm",
+    "temperament": "Calm, Friendly, Gentle, Lively, Patient, Watchful",
+    "bite_force": "195 PSI"
   },
   "Toy Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "2-4 kg",
+    "height": "25-30 cm",
+    "temperament": "Alert, Courageous, Friendly, Intelligent, Lively",
+    "bite_force": "100 PSI"
   },
   "Standard Poodle": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / Germany",
+    "life_expectancy": "12-15 years",
+    "weight": "20-32 kg",
+    "height": "45-60 cm",
+    "temperament": "Active, Alert, Faithful, Instinctual, Intelligent, Loyal, Trainable",
+    "bite_force": "195 PSI"
   },
   "Bernese Mountain Dog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Switzerland",
+    "life_expectancy": "7-10 years",
+    "weight": "31-52 kg",
+    "height": "58-70 cm",
+    "temperament": "Affectionate, Faithful, Gentle, Intelligent, Loyal",
+    "bite_force": "200 PSI"
   },
   "Pomeranian": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany / Poland (Pomerania region)",
+    "life_expectancy": "12-16 years",
+    "weight": "1.4-3.2 kg",
+    "height": "18-24 cm",
+    "temperament": "Active, Bold, Extroverted, Friendly, Intelligent, Lively, Playful, Sociable",
+    "bite_force": "100 PSI"
   },
   "Ibizan Hound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Spain (Ibiza)",
+    "life_expectancy": "12-14 years",
+    "weight": "20-29 kg",
+    "height": "56-74 cm",
+    "temperament": "Active, Clownish, Engaging, Even Tempered, Friendly, Loyal",
+    "bite_force": "175 PSI"
   },
   "Redbone": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "12-15 years",
+    "weight": "20-32 kg",
+    "height": "53-66 cm",
+    "temperament": "Affectionate, Eager, Energetic, Friendly, Loyal",
+    "bite_force": "200 PSI"
   },
   "Toy Poodle": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / Germany",
+    "life_expectancy": "12-15 years",
+    "weight": "2-4 kg",
+    "height": "24-28 cm",
+    "temperament": "Active, Alert, Faithful, Intelligent, Loyal, Trainable",
+    "bite_force": "100 PSI"
   },
   "Basset": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / United Kingdom",
+    "life_expectancy": "10-12 years",
+    "weight": "20-29 kg",
+    "height": "28-38 cm",
+    "temperament": "Affectionate, Devoted, Friendly, Gentle, Tenacious, Sweet-Tempered",
+    "bite_force": "185 PSI"
   },
   "Scottish Deerhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom",
+    "life_expectancy": "8-11 years",
+    "weight": "34-50 kg",
+    "height": "71-81 cm",
+    "temperament": "Docile, Eager, Friendly, Gentle, Loyal",
+    "bite_force": "175 PSI"
   },
   "Miniature Pinscher": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "12-16 years",
+    "weight": "3.6-4.5 kg",
+    "height": "25-32 cm",
+    "temperament": "Clever, Energetic, Friendly, Outgoing, Playful, Responsive",
+    "bite_force": "100 PSI"
   },
   "Basenji": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Democratic Republic of the Congo (Central Africa)",
+    "life_expectancy": "13-14 years",
+    "weight": "9-11 kg",
+    "height": "40-43 cm",
+    "temperament": "Affectionate, Alert, Curious, Energetic, Intelligent, Playful",
+    "bite_force": "130 PSI"
   },
   "Border Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (Anglo-Scottish border)",
+    "life_expectancy": "12-15 years",
+    "weight": "5-7 kg",
+    "height": "28-40 cm",
+    "temperament": "Affectionate, Alert, Even Tempered, Fearless, Intelligent, Obedient",
+    "bite_force": "125 PSI"
   },
   "Bedlington Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "14-16 years",
+    "weight": "8-10 kg",
+    "height": "38-44 cm",
+    "temperament": "Affectionate, Energetic, Good-Tempered, Intelligent, Loyal, Spirited",
+    "bite_force": "130 PSI"
   },
   "Kerry Blue Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "13-15 years",
+    "weight": "13-18 kg",
+    "height": "44-51 cm",
+    "temperament": "Adaptable, Alert, Loyal, Spirited, Strong-Willed",
+    "bite_force": "150 PSI"
   },
   "Weimaraner": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "11-14 years",
+    "weight": "23-40 kg",
+    "height": "56-69 cm",
+    "temperament": "Alert, Aloof, Energetic, Fast, Friendly, Intelligent, Powerful, Stubborn",
+    "bite_force": "195 PSI"
   },
   "English Setter": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-12 years",
+    "weight": "20-36 kg",
+    "height": "61-69 cm",
+    "temperament": "Affectionate, Energetic, Gentle, People-Oriented, Willful",
+    "bite_force": "150 PSI"
   },
   "Bluetick": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "11-12 years",
+    "weight": "20-36 kg",
+    "height": "53-66 cm",
+    "temperament": "Active, Affectionate, Friendly, Intelligent, Loyal",
+    "bite_force": "190 PSI"
   },
   "Boston Bull": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "11-13 years",
+    "weight": "4.5-11 kg",
+    "height": "38-43 cm",
+    "temperament": "Aggressive, Enthusiastic, Friendly, Gentle, Intelligent, Lively",
+    "bite_force": "185 PSI"
   },
   "Italian Greyhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Italy",
+    "life_expectancy": "14-15 years",
+    "weight": "3.6-5 kg",
+    "height": "33-38 cm",
+    "temperament": "Affectionate, Agile, Athletic, Intelligent, Mischievous",
+    "bite_force": "100 PSI"
   },
   "Dandie Dinmont": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (Anglo-Scottish border)",
+    "life_expectancy": "12-15 years",
+    "weight": "8-11 kg",
+    "height": "20-28 cm",
+    "temperament": "Courageous, Fun-Loving, Independent, Intelligent, Lively, Stubborn",
+    "bite_force": "125 PSI"
   },
   "Airedale": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-13 years",
+    "weight": "18-29 kg",
+    "height": "56-61 cm",
+    "temperament": "Alert, Confident, Courageous, Friendly, Intelligent, Loyal, Outgoing",
+    "bite_force": "200 PSI"
   },
   "Irish Water Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "10-12 years",
+    "weight": "20-30 kg",
+    "height": "51-58 cm",
+    "temperament": "Alert, Clownish, Energetic, Intelligent, Loyal, Playful",
+    "bite_force": "155 PSI"
   },
   "Norfolk Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "5-6 kg",
+    "height": "23-25 cm",
+    "temperament": "Alert, Courageous, Fearless, Lovable, Self-Confident",
+    "bite_force": "120 PSI"
   },
   "Wire": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-14 years",
+    "weight": "7-9 kg",
+    "height": "35-40 cm",
+    "temperament": "Alert, Energetic, Friendly, Independent, Intelligent",
+    "bite_force": "130 PSI"
   },
   "French Bulldog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France",
+    "life_expectancy": "10-14 years",
+    "weight": "7-14 kg",
+    "height": "27-35 cm",
+    "temperament": "Affectionate, Alert, Easygoing, Lively, Playful, Sociable",
+    "bite_force": "180 PSI"
   },
   "Soft": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "12-15 years",
+    "weight": "11-20 kg",
+    "height": "43-48 cm",
+    "temperament": "Alert, Energetic, Faithful, Intelligent, Lively",
+    "bite_force": "140 PSI"
   },
   "Komondor": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Hungary",
+    "life_expectancy": "10-12 years",
+    "weight": "36-61 kg",
+    "height": "64-76 cm",
+    "temperament": "Affectionate, Calm, Fearless, Independent, Loyal, Steady",
+    "bite_force": "250 PSI"
   },
   "African Hunting Dog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Sub-Saharan Africa",
+    "life_expectancy": "11-13 years",
+    "weight": "17-36 kg",
+    "height": "60-75 cm",
+    "temperament": "Affectionate, Energetic, Intelligent, Loyal, Pack-Oriented, Vocal",
+    "bite_force": "317 PSI"
   },
   "Siberian Husky": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Russia (Siberia)",
+    "life_expectancy": "12-15 years",
+    "weight": "16-27 kg",
+    "height": "51-60 cm",
+    "temperament": "Alert, Energetic, Friendly, Gentle, Intelligent, Outgoing",
+    "bite_force": "320 PSI"
   },
   "Newfoundland": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Canada (Newfoundland)",
+    "life_expectancy": "8-10 years",
+    "weight": "45-68 kg",
+    "height": "66-71 cm",
+    "temperament": "Friendly, Gentle, Loyal, Patient, Sweet-Tempered, Trainable",
+    "bite_force": "240 PSI"
   },
   "Bouvier Des Flandres": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium",
+    "life_expectancy": "10-12 years",
+    "weight": "27-54 kg",
+    "height": "58-71 cm",
+    "temperament": "Agile, Energetic, Faithful, Intelligent, Loyal, Protective, Rational",
+    "bite_force": "235 PSI"
   },
   "Saluki": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Fertile Crescent (Middle East)",
+    "life_expectancy": "12-14 years",
+    "weight": "16-29 kg",
+    "height": "58-71 cm",
+    "temperament": "Aloof, Gentle, Intelligent, Loyal, Quiet, Reserved",
+    "bite_force": "160 PSI"
   },
   "Shetland Sheepdog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom (Shetland Islands)",
+    "life_expectancy": "12-14 years",
+    "weight": "5-11 kg",
+    "height": "33-41 cm",
+    "temperament": "Affectionate, Alert, Energetic, Intelligent, Loyal, Playful, Responsive",
+    "bite_force": "130 PSI"
   },
   "Collie": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland / Northern England, United Kingdom",
+    "life_expectancy": "14-16 years",
+    "weight": "18-29 kg",
+    "height": "51-61 cm",
+    "temperament": "Active, Alert, Friendly, Gentle, Intelligent, Loyal, Protective",
+    "bite_force": "150 PSI"
   },
   "Rottweiler": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "8-10 years",
+    "weight": "35-60 kg",
+    "height": "56-69 cm",
+    "temperament": "Alert, Calm, Confident, Courageous, Devoted, Fearless, Good-natured, Loyal, Obedient, Self-Assured, Steady",
+    "bite_force": "328 PSI"
   },
   "Silky Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Australia",
+    "life_expectancy": "12-15 years",
+    "weight": "3.5-5 kg",
+    "height": "23-26 cm",
+    "temperament": "Alert, Courageous, Friendly, Inquisitive, Joyful, Loyal, Quick",
+    "bite_force": "100 PSI"
   },
   "Norwegian Elkhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Norway",
+    "life_expectancy": "12-15 years",
+    "weight": "18-25 kg",
+    "height": "49-52 cm",
+    "temperament": "Alert, Bold, Energetic, Friendly, Intelligent, Loyal, Reliable",
+    "bite_force": "175 PSI"
   },
   "Chihuahua": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Mexico",
+    "life_expectancy": "12-20 years",
+    "weight": "1.5-3 kg",
+    "height": "15-23 cm",
+    "temperament": "Alert, Courageous, Devoted, Lively, Loyal, Quick",
+    "bite_force": "100 PSI"
   },
   "Leonberg": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany (Leonberg)",
+    "life_expectancy": "8-9 years",
+    "weight": "41-75 kg",
+    "height": "65-80 cm",
+    "temperament": "Adaptable, Alert, Companionable, Friendly, Gentle, Loyal, Obedient",
+    "bite_force": "230 PSI"
   },
   "Norwich Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "4.5-5.5 kg",
+    "height": "23-25 cm",
+    "temperament": "Affectionate, Alert, Courageous, Energetic, Hardy, Loyal",
+    "bite_force": "120 PSI"
   },
   "Cairn": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom",
+    "life_expectancy": "12-15 years",
+    "weight": "6-7.5 kg",
+    "height": "28-33 cm",
+    "temperament": "Active, Courageous, Fearless, Hardy, Intelligent, Loyal",
+    "bite_force": "120 PSI"
   },
   "Boxer": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "10-12 years",
+    "weight": "25-32 kg",
+    "height": "53-63 cm",
+    "temperament": "Bright, Cheerful, Devoted, Energetic, Friendly, Intelligent, Loyal, Playful",
+    "bite_force": "230 PSI"
   },
   "Borzoi": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Russia",
+    "life_expectancy": "10-12 years",
+    "weight": "27-48 kg",
+    "height": "68-85 cm",
+    "temperament": "Athletic, Gentle, Independent, Intelligent, Loyal, Quiet, Respectful",
+    "bite_force": "195 PSI"
   },
   "Dhole": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "South / Southeast Asia",
+    "life_expectancy": "10-13 years",
+    "weight": "12-21 kg",
+    "height": "42-55 cm",
+    "temperament": "Energetic, Gregarious, Loyal, Pack-Oriented, Social",
+    "bite_force": "300 PSI"
   },
   "Samoyed": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Russia (Siberia)",
+    "life_expectancy": "12-14 years",
+    "weight": "16-30 kg",
+    "height": "46-60 cm",
+    "temperament": "Adaptable, Alert, Energetic, Friendly, Gentle, Lively, Playful, Stubborn",
+    "bite_force": "225 PSI"
   },
   "German Shepherd": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "9-13 years",
+    "weight": "22-40 kg",
+    "height": "55-65 cm",
+    "temperament": "Alert, Confident, Courageous, Curious, Intelligent, Loyal, Obedient, Watchful",
+    "bite_force": "238 PSI"
   },
   "Labrador Retriever": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Canada (Newfoundland) / United Kingdom",
+    "life_expectancy": "10-12 years",
+    "weight": "25-36 kg",
+    "height": "55-62 cm",
+    "temperament": "Agile, Gentle, Intelligent, Kind, Outgoing, Trusting",
+    "bite_force": "230 PSI"
   },
   "Blenheim Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "5-8 kg",
+    "height": "30-33 cm",
+    "temperament": "Affectionate, Friendly, Gentle, Graceful, Patient, Playful",
+    "bite_force": "120 PSI"
   },
   "Groenendael": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium",
+    "life_expectancy": "12-14 years",
+    "weight": "25-30 kg",
+    "height": "56-66 cm",
+    "temperament": "Alert, Energetic, Intelligent, Loyal, Protective, Watchful",
+    "bite_force": "195 PSI"
   },
   "Doberman": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "10-13 years",
+    "weight": "27-45 kg",
+    "height": "61-72 cm",
+    "temperament": "Alert, Energetic, Fearless, Intelligent, Loyal, Obedient",
+    "bite_force": "305 PSI"
   },
   "Great Dane": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "8-10 years",
+    "weight": "50-82 kg",
+    "height": "71-86 cm",
+    "temperament": "Devoted, Friendly, Gentle, Loving, Patient, Reserved",
+    "bite_force": "238 PSI"
   },
   "Flat": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-14 years",
+    "weight": "25-36 kg",
+    "height": "56-61 cm",
+    "temperament": "Adaptable, Cheerful, Confident, Intelligent, Loyal, Optimistic",
+    "bite_force": "155 PSI"
   },
   "Appenzeller": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Switzerland (Appenzell)",
+    "life_expectancy": "12-14 years",
+    "weight": "22-32 kg",
+    "height": "50-58 cm",
+    "temperament": "Alert, Energetic, Faithful, Intelligent, Lively, Reliable, Self-Confident",
+    "bite_force": "200 PSI"
   },
   "Shih": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "China / Tibet",
+    "life_expectancy": "10-18 years",
+    "weight": "4-7.5 kg",
+    "height": "20-28 cm",
+    "temperament": "Affectionate, Clever, Courageous, Energetic, Friendly, Gentle, Happy, Independent, Lively, Loyal, Outgoing, Playful, Spunky, Trusting",
+    "bite_force": "100 PSI"
   },
   "Japanese Spaniel": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Japan / China",
+    "life_expectancy": "10-14 years",
+    "weight": "2-6 kg",
+    "height": "20-27 cm",
+    "temperament": "Alert, Caring, Cat-Like, Gentle, Independent, Intelligent, Loyal",
+    "bite_force": "100 PSI"
   },
   "Greater Swiss Mountain Dog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Switzerland",
+    "life_expectancy": "8-11 years",
+    "weight": "36-61 kg",
+    "height": "60-72 cm",
+    "temperament": "Alert, Devoted, Faithful, Gentle, Good-natured, Protective",
+    "bite_force": "230 PSI"
   },
   "Black": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-12 years",
+    "weight": "25-34 kg",
+    "height": "56-61 cm",
+    "temperament": "Alert, Courageous, Faithful, Intelligent, Loyal",
+    "bite_force": "185 PSI"
   },
   "Dingo": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Australia",
+    "life_expectancy": "5-10 years (wild) / up to 14 years (captivity)",
+    "weight": "13-24 kg",
+    "height": "44-63 cm",
+    "temperament": "Energetic, Loyal, Shy, Wild, Wary of strangers",
+    "bite_force": "200 PSI"
   },
   "Great Pyrenees": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / Spain (Pyrenean Mountains)",
+    "life_expectancy": "10-12 years",
+    "weight": "36-54 kg",
+    "height": "65-82 cm",
+    "temperament": "Affectionate, Confident, Gentle, Loyal, Patient, Patient, Strong-Willed",
+    "bite_force": "290 PSI"
   },
   "Whippet": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "12-15 years",
+    "weight": "7-14 kg",
+    "height": "44-51 cm",
+    "temperament": "Affectionate, Alert, Friendly, Gentle, Intelligent, Lively, Quiet",
+    "bite_force": "150 PSI"
   },
   "Keeshond": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Netherlands",
+    "life_expectancy": "12-15 years",
+    "weight": "14-18 kg",
+    "height": "43-46 cm",
+    "temperament": "Agile, Alert, Bright, Energetic, Friendly, Obedient, Playful, Quick",
+    "bite_force": "155 PSI"
   },
   "Malinois": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium (Malines)",
+    "life_expectancy": "12-14 years",
+    "weight": "25-34 kg",
+    "height": "56-66 cm",
+    "temperament": "Active, Alert, Confident, Energetic, Hardworking, Intelligent, Protective, Loyal",
+    "bite_force": "195 PSI"
   },
   "American Staffordshire Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "12-16 years",
+    "weight": "25-40 kg",
+    "height": "43-48 cm",
+    "temperament": "Courageous, Devoted, Friendly, Intelligent, Loyal, Tenacious",
+    "bite_force": "235 PSI"
   },
   "Mexican Hairless": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Mexico",
+    "life_expectancy": "13-18 years",
+    "weight": "4-20 kg",
+    "height": "25-60 cm",
+    "temperament": "Alert, Affectionate, Calm, Cheerful, Intelligent, Loyal, Protective",
+    "bite_force": "120 PSI"
   },
   "Giant Schnauzer": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany (Bavaria)",
+    "life_expectancy": "12-15 years",
+    "weight": "25-48 kg",
+    "height": "60-70 cm",
+    "temperament": "Alert, Bold, Energetic, Good-Natured, Intelligent, Loyal, Powerful, Strong-Willed",
+    "bite_force": "255 PSI"
   },
   "Brabancon Griffon": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium",
+    "life_expectancy": "12-15 years",
+    "weight": "3.5-6 kg",
+    "height": "23-28 cm",
+    "temperament": "Alert, Curious, Friendly, Independent, Inquisitive, Loyal, Sociable",
+    "bite_force": "100 PSI"
   },
   "Kuvasz": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Hungary",
+    "life_expectancy": "10-12 years",
+    "weight": "32-52 kg",
+    "height": "66-75 cm",
+    "temperament": "Clownish, Courageous, Loyal, Protective, Patient, Intelligent",
+    "bite_force": "230 PSI"
   },
   "Miniature Poodle": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / Germany",
+    "life_expectancy": "12-15 years",
+    "weight": "7-8 kg",
+    "height": "28-35 cm",
+    "temperament": "Active, Alert, Faithful, Intelligent, Instinctual, Loyal, Trainable",
+    "bite_force": "120 PSI"
   },
   "Irish Wolfhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Ireland",
+    "life_expectancy": "6-10 years",
+    "weight": "48-69 kg",
+    "height": "71-90 cm",
+    "temperament": "Generous, Loyal, Patient, Sweet-Tempered, Thoughtful",
+    "bite_force": "224 PSI"
   },
   "Briard": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France (Brie region)",
+    "life_expectancy": "10-12 years",
+    "weight": "23-41 kg",
+    "height": "56-69 cm",
+    "temperament": "Agile, Alert, Energetic, Faithful, Intelligent, Loyal, Obedient",
+    "bite_force": "195 PSI"
   },
   "Clumber": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-12 years",
+    "weight": "25-39 kg",
+    "height": "43-51 cm",
+    "temperament": "Affectionate, Calm, Gentle, Loyal, Playful",
+    "bite_force": "155 PSI"
   },
   "Standard Schnauzer": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "13-16 years",
+    "weight": "14-20 kg",
+    "height": "44-50 cm",
+    "temperament": "Alert, Energetic, Intelligent, Lively, Loyal, Playful, Spirited",
+    "bite_force": "200 PSI"
   },
   "Bull Mastiff": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "8-10 years",
+    "weight": "41-59 kg",
+    "height": "61-68 cm",
+    "temperament": "Alert, Calm, Courageous, Devoted, Docile, Loyal, Powerful, Protective, Reliable, Reserved",
+    "bite_force": "556 PSI"
   },
   "Malamute": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States (Alaska)",
+    "life_expectancy": "10-14 years",
+    "weight": "34-39 kg",
+    "height": "58-64 cm",
+    "temperament": "Affectionate, Devoted, Dignified, Friendly, Loyal, Playful",
+    "bite_force": "235 PSI"
   },
   "Sealyham Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Wales, United Kingdom",
+    "life_expectancy": "12-14 years",
+    "weight": "8-9 kg",
+    "height": "25-31 cm",
+    "temperament": "Alert, Calm, Courageous, Friendly, Loyal, Outgoing",
+    "bite_force": "120 PSI"
   },
   "Entlebucher": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Switzerland (Entlebuch)",
+    "life_expectancy": "10-13 years",
+    "weight": "20-30 kg",
+    "height": "44-52 cm",
+    "temperament": "Agile, Alert, Dedicated, Enthusiastic, Loyal",
+    "bite_force": "200 PSI"
   },
   "Chow": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "China",
+    "life_expectancy": "9-15 years",
+    "weight": "20-32 kg",
+    "height": "43-51 cm",
+    "temperament": "Aloof, Independent, Loyal, Quiet",
+    "bite_force": "220 PSI"
   },
   "Papillon": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "France / Belgium / Spain",
+    "life_expectancy": "13-15 years",
+    "weight": "3.2-4.5 kg",
+    "height": "20-28 cm",
+    "temperament": "Alert, Energetic, Friendly, Hardy, Intelligent, Playful",
+    "bite_force": "100 PSI"
   },
   "Pembroke": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Wales, United Kingdom",
+    "life_expectancy": "12-15 years",
+    "weight": "10-14 kg",
+    "height": "25-30 cm",
+    "temperament": "Bold, Friendly, Outgoing, Playful, Tenacious",
+    "bite_force": "130 PSI"
   },
   "German Short": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "12-14 years",
+    "weight": "20-32 kg",
+    "height": "53-64 cm",
+    "temperament": "Affectionate, Bold, Boisterous, Intelligent, Loyal",
+    "bite_force": "175 PSI"
   },
   "Old English Sheepdog": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United Kingdom (England)",
+    "life_expectancy": "10-12 years",
+    "weight": "27-46 kg",
+    "height": "56-61 cm",
+    "temperament": "Adaptable, Bubbly, Gentle, Intelligent, Loving, Sociable",
+    "bite_force": "200 PSI"
   },
   "Chesapeake Bay Retriever": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "United States",
+    "life_expectancy": "10-13 years",
+    "weight": "25-36 kg",
+    "height": "53-66 cm",
+    "temperament": "Affectionate, Bright, Dominant, Happy, Intelligent, Protective, Quiet, Sensitive",
+    "bite_force": "235 PSI"
   },
   "Scotch Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Scotland, United Kingdom",
+    "life_expectancy": "11-13 years",
+    "weight": "8.5-10.5 kg",
+    "height": "25-28 cm",
+    "temperament": "Alert, Feisty, Independent, Loyal, Spirited",
+    "bite_force": "150 PSI"
   },
   "Australian Terrier": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Australia",
+    "life_expectancy": "12-15 years",
+    "weight": "5-7 kg",
+    "height": "23-28 cm",
+    "temperament": "Alert, Courageous, Energetic, Even Tempered, Loyal, Spirited",
+    "bite_force": "120 PSI"
   },
   "Miniature Schnauzer": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Germany",
+    "life_expectancy": "12-15 years",
+    "weight": "5-9 kg",
+    "height": "30-36 cm",
+    "temperament": "Alert, Energetic, Friendly, Intelligent, Loyal, Obedient, Spirited",
+    "bite_force": "140 PSI"
   },
   "Bloodhound": {
-    "origin": "Unknown",
-    "life_expectancy": "Unknown",
-    "weight": "Unknown",
-    "height": "Unknown",
-    "temperament": "Unknown",
-    "bite_force": "Unknown"
+    "origin": "Belgium (then United Kingdom)",
+    "life_expectancy": "10-12 years",
+    "weight": "36-50 kg",
+    "height": "58-69 cm",
+    "temperament": "Affectionate, Even Tempered, Gentle, Stubborn, Tenacious",
+    "bite_force": "238 PSI"
   }
 }
