@@ -1,0 +1,190 @@
+MODEL CONFIG:
+
+IMG_SIZE: 224
+MobileNetV2 is designed to take 224x224 images.
+So this ensures optimal feature extraction.
+
+
+
+
+
+BATCH_SIZE: 32
+Number of images processed in one forward/backward pass.
+Meaning:
+32 images → model updates weights after seeing 32 samples
+Trade-off:
+Larger batch → faster but needs more RAM
+Smaller batch → slower but more stable learning
+
+
+
+
+
+
+
+
+
+EPOCHS_FROZEN: 10
+Phase 1: freeze MobileNetV2 base, train only top layers (classifier head)
+
+👉 Why?
+
+Pretrained model already knows general features (edges, textures)
+You only train:
+final Dense layers
+Prevents destroying pretrained knowledge
+
+
+
+
+
+EPOCHS_UNFROZEN: 20
+Phase 2: unfreeze whole model, fine-tune everything
+
+👉 Why?
+
+Now model adapts deeper features to your dataset (dogs)
+Improves accuracy significantly
+
+
+
+
+
+
+
+DROPOUT: 0.4
+Regularization technique
+
+👉 What it does:
+
+Randomly disables 40% neurons during training
+
+👉 Why?
+
+Prevents overfitting
+Forces model to learn robust features
+
+
+
+
+
+
+
+
+
+
+🧠 How this fits together (VERY IMPORTANT for viva)
+
+Your training happens in 2 phases:
+
+Phase 1:
+Freeze base model
+Train only classifier
+Fast learning (LR = 1e-3)
+Phase 2:
+Unfreeze full model
+Fine-tune carefully
+Slow learning (LR = 1e-5)
+
+👉 This strategy is called:
+
+Transfer Learning + Fine-Tuning
+
+
+
+
+
+
+DOWNLOAD STANFORD DOGS DATASET: 120 breeds,  Total images: 20580, Avg images/breed: 171
+
+Clean and Restructure Dataset
+# Maps Stanford folder names (n02085620-Chihuahua) → clean names (Chihuahua)
+
+
+
+
+
+
+Add Indian Dog Breeds
+# We use Bing Image Downloader to get images for Indian breeds
+
+
+INDIAN_BREEDS = [
+    'Rajapalayam dog',
+    'Mudhol Hound dog',
+    'Indian Pariah dog',
+    'Kanni dog breed',
+    'Chippiparai dog',
+    'Rampur Greyhound dog',
+    'Jonangi dog breed',
+    'Bakharwal dog',
+    'Kombai dog breed',
+    'Mahratta Greyhound dog',
+]
+
+
+
+
+
+
+
+Validate & Filter Dataset
+# Remove corrupt images, ensure minimum images per breed is 50
+
+Breeds with too few images (skipped)
+
+
+
+
+Dataset split complete (70% train / 15% val / 15% test)
+
+
+Validation data is used during training to tune hyperparameters and improve the model, whereas test data is used only after training to evaluate the final performance and remains completely unseen to ensure unbiased results.
+
+
+
+
+
+
+
+
+
+
+app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024
+
+
+
+ Total params: 3,334,314 (12.72 MB)
+ Trainable params: 358,776 (1.37 MB)
+ Non-trainable params: 2,257,984 (8.61 MB)
+ Optimizer params: 717,554 (2.74 MB)
+
+
+
+
+
+
+
+
+Grad-CAM is used to visually show which parts of an image influenced the model’s prediction.
+
+Grad-CAM works on last conv layer because it retains spatial features
+
+
+This function generates a Grad-CAM visualization by computing gradients of the predicted class with respect to the last convolutional layer of MobileNetV2. These gradients are used to weight feature maps, producing a heatmap that highlights important regions influencing the model’s prediction.
+
+
+
+
+You're right, the pawid_final.keras model has been saved. As I explained before, by examining the model definition and training phases in the notebook:
+
+Total layers in the full model: 162 layers
+Total layers in the base MobileNetV2 model: 154 layers
+Regarding the freezing strategy:
+
+Phase 1 (Training Top Layers): The entire base_model (MobileNetV2, which has 154 layers) was frozen (base_model.trainable = False). Only the newly added classification head layers were trained.
+Phase 2 (Fine-tuning Entire Model): The base_model was partially unfrozen. Specifically, the last 30 layers of the base_model were made trainable (base_model.trainable = True, then layers[:-30] set to False), while the initial 124 layers of MobileNetV2 remained frozen.
+
+
+
+
